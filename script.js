@@ -1,5 +1,5 @@
 function changeTitle()
 {
   var dumm = document.getElementById('limit');
-  document.getElementById('Title1').innerHTML = dumm;
+  document.getElementById('srcha').innerHTML = dumm;
 }
