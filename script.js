@@ -1,1 +1,5 @@
-var dumm = doc.getElementById("limit");
+fun setTitle()
+{
+  var dumm = doc.getElementById("limit");
+  document.getElementById("Title1").innerHTML = dumm;
+}
